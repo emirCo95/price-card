@@ -23,7 +23,7 @@ html {
 }
 
 .card-container:hover {
-  transform: rotate(180deg);
+  transform: scale(1.05);
 }
 
 h1 {
